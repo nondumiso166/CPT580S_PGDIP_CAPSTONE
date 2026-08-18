@@ -22,7 +22,7 @@ The project aims to create a customer churn prediction model employing decision 
 
 
 
-**Disclaimer: This project is a personal implementation of the ProjectPro Project tutorial and some learning from cousera short courses on python for data science**
+
 
 
 
